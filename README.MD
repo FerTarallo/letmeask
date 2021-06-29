@@ -15,6 +15,8 @@
   <a href="#">
     <img alt="Developed By FerTarallo" src="https://img.shields.io/badge/Developed%20By-FerTarallo-%EC5AF9">
   </a>
+	
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%232F74C0">
 </p>
 
 # Descrição do Projeto
